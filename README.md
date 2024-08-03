@@ -29,7 +29,6 @@ Here are a few of my projects:
 ## 📫 How to Reach Me
 
 - LinkedIn: [Your LinkedIn](www.linkedin.com/in/matheus-donato-57a36214b)
-- Email: [your.email@example.com](mailto:your.email@example.com)
 
 
 ## 📈 GitHub Stats
